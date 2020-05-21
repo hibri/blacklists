@@ -1,0 +1,20 @@
+# Title: Blacklists for PiHole
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 21 May 2020 00:58:16 (UTC)
+
+#
+# ===============================================================
+0.0.0.0 aoacugmutagkwctu.onion
+0.0.0.0 mazedecrypt.top
+0.0.0.0 mazenews.top
+0.0.0.0 newsmaze.top
+0.0.0.0 checksoffice.me
+0.0.0.0 drivers.updatecenter.icu
+0.0.0.0 plaintsotherest.net
+0.0.0.0 thesawmeinrew.net
+0.0.0.0 updates.updatecenter.icu
+0.0.0.0 agenziainformazioni.icu
+0.0.0.0 www.download-invoice.site
